@@ -4,6 +4,7 @@ document.onmousemove = function(){
     var y = event.clientY * 100 / window.innerHeight + "%";
     //event.clientX => get the horizontal coordinate of the onmousemove
     //event.clientY => get the Vertical coordinate of the onmousemove
+    // Made with JS
     //window.innerWidth => get the browser width
     //window.innerHeight => get the browser height
 
